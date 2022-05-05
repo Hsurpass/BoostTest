@@ -1,3 +1,5 @@
+// g++ main.cpp -lboost_system -std=c++11 -lpthread
+
 #include <iostream>
 #include <boost/asio.hpp>
 #include <boost/format.hpp>

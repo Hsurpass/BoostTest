@@ -1,3 +1,4 @@
+// g++ example2.cpp -lboost_regex
 #include <boost/regex.hpp>
 #include <iostream>
 #include <string>
